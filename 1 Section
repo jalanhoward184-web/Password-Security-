@@ -1,0 +1,24 @@
+Objective-Practice Windows user account creation and removal
+Apply password complexity and minimum length requirements
+Modify local security policies using gpedit.msc / secpol.msc
+Recreate users under hardened security settings
+Assign users to appropriate Windows groups
+Demonstrate basic Windows system hardening
+Tools Used-Windows VM
+Computer Management (lusrmgr.msc)
+Local Security Policy (secpol.msc)
+Group Policy Editor (gpedit.msc)
+VirtualBox
+Goals-Create and delete Windows user accounts
+Enforce password complexity requirements
+Increase minimum password length
+Configure local security policies
+Recreate users under secure settings
+Assign users to groups for proper permissions
+What I learned
+How to manage Windows users and groups
+How to enforce password complexity and length
+How to modify local security policies
+How Windows groups affect permissions
+Fundamentals of Windows system hardening
+How secure account structures are built
